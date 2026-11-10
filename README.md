@@ -1,4 +1,4 @@
-# Demo link: https://got-personality-matcher.streamlit.app/
+**Demo link**: https://got-personality-matcher.streamlit.app/
 
 # ⚔️ Game of Thrones Personality Matcher
 
